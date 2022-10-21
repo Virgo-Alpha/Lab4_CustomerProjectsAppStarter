@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/benson/Desktop/code_learn/Lab4_CustomerProjectsAppStarter/Lab4_CustomerProjectsAppStarter/customers.txt</file>
+            <file>file:/home/benson/Desktop/code_learn/Lab4_CustomerProjectsAppStarter/Lab4_CustomerProjectsAppStarter/src/helpers/InputHelper.java</file>
+            <file>file:/home/benson/Desktop/code_learn/Lab4_CustomerProjectsAppStarter/Lab4_CustomerProjectsAppStarter/src/model/Customer.java</file>
+            <file>file:/home/benson/Desktop/code_learn/Lab4_CustomerProjectsAppStarter/Lab4_CustomerProjectsAppStarter/src/repositories/CustomerRepositoryInterface.java</file>
+            <file>file:/home/benson/Desktop/code_learn/Lab4_CustomerProjectsAppStarter/Lab4_CustomerProjectsAppStarter/src/daos/CustomerDAOTextFileImpl.java</file>
+            <file>file:/home/benson/Desktop/code_learn/Lab4_CustomerProjectsAppStarter/Lab4_CustomerProjectsAppStarter/src/customerprojects/CustomerProjectsApp.java</file>
+            <file>file:/home/benson/Desktop/code_learn/Lab4_CustomerProjectsAppStarter/Lab4_CustomerProjectsAppStarter/src/repositories/CustomerRepositoryImpl.java</file>
+            <file>file:/home/benson/Desktop/code_learn/Lab4_CustomerProjectsAppStarter/Lab4_CustomerProjectsAppStarter/src/daos/CustomerDAOInterface.java</file>
+        </group>
+    </open-files>
+</project-private>
