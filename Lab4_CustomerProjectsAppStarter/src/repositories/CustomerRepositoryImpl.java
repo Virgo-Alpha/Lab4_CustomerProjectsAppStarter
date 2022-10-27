@@ -49,7 +49,7 @@ public class CustomerRepositoryImpl implements CustomerRepositoryInterface {
 
     @Override
     public void loadFromFile(String filename) {
-        this.customerDAO.loadFromFile(filename);
+        this.customers = this.customerDAO.loadFromFile(filename);
     }
     
 }

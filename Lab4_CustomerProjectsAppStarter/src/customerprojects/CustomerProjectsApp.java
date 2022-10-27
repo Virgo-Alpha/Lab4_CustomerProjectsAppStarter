@@ -5,30 +5,25 @@
  */
 package customerprojects;
 
-import daos.CustomerDAOInterface;
-import daos.CustomerDAOTextFileImpl;
-import java.util.List;
-import model.Customer;
+//import daos.CustomerDAOInterface;
 
-/**
- *
- * @author mga
- */
+import controllers.CustomerController;
+
+
+
+//import daos.CustomerDAOTextFileImpl;
+//import helpers.InputHelper;
+//import java.util.List;
+//import model.Customer;
+
+
 public class CustomerProjectsApp {
 
     public static void main(String[] args) {
-        CustomerDAOInterface customerDAO = new CustomerDAOTextFileImpl();
-//        List<Customer>customers = new ArrayList<>();
-//                
-//        customers.add(new Customer("C1", "Yoven", 29));
-//        customers.add(new Customer("C2", "Yovin", 40));
-//        customers.add(new Customer("C3", "Benson", 24));
-
-          
         
-        List <Customer> customers = customerDAO.loadFromFile("customers.txt");
+        CustomerController customerController = new CustomerController();
         
-        System.out.println(customers);
+        customerController.run();
 
     }
 }
