@@ -1,3 +1,3 @@
 C1,Yoven,29
 C2,Yovin,40
-C3,Benson,24
+C3,Benson,22

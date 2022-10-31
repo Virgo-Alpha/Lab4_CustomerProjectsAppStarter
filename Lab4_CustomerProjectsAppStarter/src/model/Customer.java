@@ -51,7 +51,7 @@ public class Customer {
     }
     
     public String convertToCommaSeparatedString(){
-        return String.format("%s, %s, %d", id, name, age) ;
+        return String.format("%s,%s,%d", id, name, age) ;
     }
     
 }
